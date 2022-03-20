@@ -1,3 +1,5 @@
+### A project in which I participated in high school with my friends. We were one of the few winning teams from many countries. [Click here for more informations](https://www.esa.int/Education/AstroPI/European_Astro_Pi_Challenge_Mission_Space_Lab_winners2)
+
 # ApplePi
 > We are teenagers from Poland who take part in the Astro Pi Mission Space Lab 2018-2019
 
